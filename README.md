@@ -11,4 +11,4 @@ Université Lille3, Automne 2015
 
 La validation de cet enseignement sera essentiellement basée sur la réalisation de projets personnels qui pourront prendre notamment la forme d'investigations reposant sur la collecte et la mise en forme de données construites et/ou collectées.
 
-Retrouvez les resources et les synthèses des séances dans [le wiki](/wiki)
+Retrouvez les resources et les synthèses des séances dans [le wiki](https://github.com/freddylimpens/IntroBD-DataJournalism/wiki)
