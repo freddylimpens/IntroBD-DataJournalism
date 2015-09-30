@@ -8,3 +8,5 @@ Les objectifs de ce cours sont les suivants:
 * Apprendre à collecter et transformer des données issues des resources de l'OpenData
 * Adopter une démarche inspirée du DataJournalisme qui exploite des jeux de données pour appuyer un propos critique ou d'information 
 * Apprendre à questionner les jeux de données dans la manière de les réaliser, la validité des sources, la solidité de leur construction et l'adéquation technique de leurs formats (format propriétaire fermé vs format ouvert standards, etc.)
+
+La validation de cet enseignement sera essentiellement basée sur la réalisation de projets personnels qui pourront prendre notamment la forme d'investigations reposant sur la collecte et la mise en forme de données construites et/ou collectées.
