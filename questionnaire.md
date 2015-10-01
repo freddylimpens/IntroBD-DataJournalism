@@ -1,6 +1,6 @@
-** Nom: **
-** Prénom: **
-** Email: **    
+*Nom:*  
+*Prénom:*  
+*Email:*      
 
 
 * Quels sont les sujets d'actualité que vous suivez régulièrement ou avez suivis récemment ?
