@@ -7,7 +7,7 @@
 
 * Quels sont les sujets d'actualité que vous suivez régulièrement ou avez suivis récemment ?
 
-* Quel(s) est(sont) le(s) dernier(s) film ou programme TV documentaire qui vous a(ont) le plus marqué(s) ?
+* Quel(s) est(sont) le(s) dernier(s) film documentaires ou programme TV documentaire qui vous a(ont) le plus marqué(s) ?
 
 * Qu'attendez-vous de ce cours ?
 
