@@ -25,6 +25,10 @@ VALUES (1, 'bergson', 'henry', 'bergsonh@no-log.org')
 INSERT INTO etudiants_bd (nom, email)
 VALUES ('sartre', 'jps@gmail.com')
 
+-- effacer des valeurs
+DELETE FROM etudiants_cours_bd
+WHERE nom LIKE 'sartre';
+
 -- Mise à jour des valeurs d'une ou plusieurs lignes
 UPDATE etudiants_bd
 SET id=2, prenom= 'jean paul'
