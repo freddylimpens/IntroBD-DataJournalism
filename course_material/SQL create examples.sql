@@ -1,4 +1,15 @@
 -- Création d'une table
+-- format à suivre :
+CREATE TABLE table_name
+(
+column_name1 data_type(size) constraint_name,
+column_name2 data_type(size) constraint_name,
+column_name3 data_type(size) constraint_name,
+....
+);
+
+-- exemple :
+
 CREATE TABLE etudiants_bd (
   id int,
   nom varchar(255),
