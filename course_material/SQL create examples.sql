@@ -8,6 +8,7 @@ column_name3 data_type(size) constraint_name,
 ....
 );
 
+
 -- exemple :
 
 CREATE TABLE etudiants_bd (
