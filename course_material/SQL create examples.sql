@@ -7,3 +7,6 @@ CREATE TABLE etudiants_bd (
 );
 
 -- insertion de valeurs
+INSERT INTO etudiants_bd (nom, email)
+VALUES ('sartre', 'jps@gmail.com')
+
