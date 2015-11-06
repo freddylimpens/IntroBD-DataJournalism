@@ -24,4 +24,7 @@ VALUES (1, 'bergson', 'henry', 'bergsonh@no-log.org')
 INSERT INTO etudiants_bd (nom, email)
 VALUES ('sartre', 'jps@gmail.com')
 
-
+-- Mise à jour des valeurs d'une ou plusieurs lignes
+UPDATE etudiants_bd
+SET id=2, prenom= 'jean paul'
+WHERE nom LIKE 'sartre'
