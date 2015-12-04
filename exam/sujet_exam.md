@@ -1,7 +1,11 @@
 # Enoncé
 
 Récupérez le fichier [exam_DB.sqlite](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/exam_DB.sqlite?raw=true) et chargez le dans SQLiteMan. Vous verrez les 4 tables utilisées dans cet examen.
-Reprenez l'énoncé de l'examen ([en ODT](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/sujet_exam.odt?raw=true), ou [en texte/MarkDown](https://raw.githubusercontent.com/freddylimpens/IntroBD-DataJournalism/master/exam/sujet_exam.md))dans un éditeur de texte de votre choix, et recopiez les requêtes SQL permettant de répondre à la question, **sous chacune des questions**.
+Reprenez l'énoncé de l'examen ([en ODT](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/sujet_exam.odt?raw=true), ou [en texte/MarkDown](https://raw.githubusercontent.com/freddylimpens/IntroBD-DataJournalism/master/exam/sujet_exam.md)) dans un éditeur de texte de votre choix, et recopiez les requêtes SQL permettant de répondre à la question, **sous chacune des questions**. 
+
+Chaque question vaut 1 point. Il y a 26 questions, donc ne vous éternisez pas si vous bloquez sur une question.
+
+Durée de l'examen : **1 heure**
 
 Les tables utilisées dans les énoncées sont toutes disponibles dans la base de donnée fournie. Aidez-vous de cet outils pour vérifier vos requêtes avant de les recopier dans votre fichier de réponse.
 
@@ -11,7 +15,7 @@ Si vous rencontrez des difficultés, envoyez le fichier réponse par email `fred
 
 # Présentation des tables
 
-## 1 [isf_france"
+## 1 "isf_france"
 visible à l'adresse https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/isf_france_2009.csv
 Base de données ISF (Impôt de Solidarité sur la Fortune)
 - Pour l'ANNEE 2009
@@ -25,7 +29,7 @@ Indice de Développement Humain calculé (année 2009) pour les communes de la r
 https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/population_france.csv
 Population des communes de France de plus de 20 000 habitants (2009)
 
-## 4 Fusion des tables "population" et "isf_france"
+## 4 "isf_population" Fusion des tables "population" et "isf_france"
 https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/isf_population.csv
 Avec les champs:
 - commune 
