@@ -15,7 +15,7 @@ Si vous rencontrez des difficultés, envoyez le fichier réponse par email `fred
 
 # Présentation des tables
 
-## 1 [isf_france"
+## 1 "isf_france"
 visible à l'adresse https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/isf_france_2009.csv
 Base de données ISF (Impôt de Solidarité sur la Fortune)
 - Pour l'ANNEE 2009
@@ -29,7 +29,7 @@ Indice de Développement Humain calculé (année 2009) pour les communes de la r
 https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/population_france.csv
 Population des communes de France de plus de 20 000 habitants (2009)
 
-## 4 Fusion des tables "population" et "isf_france"
+## 4 "isf_population" Fusion des tables "population" et "isf_france"
 https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/isf_population.csv
 Avec les champs:
 - commune 
