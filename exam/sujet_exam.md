@@ -1,9 +1,15 @@
 # Enoncé
 
-Récupérez le fichier "exam_DB.sqlite" et chargez le dans SQLiteMan. Vous verrez les 4 tables utilisées dans cet examen.
-Reprenez l'énoncé de l'examen dans un éditeur de texte de votre choix, et recopiez les requêtes SQL permettant de répondre à la question, sous chacune des questions. 
-Remettez ensuite ce fichier dans le devoir "Examen de fin de semestre" sur le site Moodle du cours:
-http://moodle.univ-lille3.fr/course/view.php?id=4904
+Récupérez le fichier [exam_DB.sqlite](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/exam_DB.sqlite?raw=true) et chargez le dans SQLiteMan. Vous verrez les 4 tables utilisées dans cet examen.
+Reprenez l'énoncé de l'examen ([en ODT](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/sujet_exam.odt?raw=true), ou [en texte/MarkDown](https://raw.githubusercontent.com/freddylimpens/IntroBD-DataJournalism/master/exam/sujet_exam.md)) dans un éditeur de texte de votre choix, et recopiez les requêtes SQL permettant de répondre à la question, **sous chacune des questions**. 
+
+Chaque question vaut 1 point. Il y a 26 questions, donc ne vous éternisez pas si vous bloquez sur une question.
+
+Durée de l'examen : **1 heure**
+
+Les tables utilisées dans les énoncées sont toutes disponibles dans la base de donnée fournie. Aidez-vous de cet outils pour vérifier vos requêtes avant de les recopier dans votre fichier de réponse.
+
+Remettez ensuite ce fichier dans le devoir "Examen de fin de semestre" sur [le site Moodle du cours](http://moodle.univ-lille3.fr/course/view.php?id=4904). **NB: clé d'accès = `flimpens`**
 
 Si vous rencontrez des difficultés, envoyez le fichier réponse par email `freddy.limpens@univ-lille3.fr`
 
@@ -23,7 +29,7 @@ Indice de Développement Humain calculé (année 2009) pour les communes de la r
 https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/population_france.csv
 Population des communes de France de plus de 20 000 habitants (2009)
 
-## 4 Fusion des tables "population" et "isf_france"
+## 4 "isf_population" Fusion des tables "population" et "isf_france"
 https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/isf_population.csv
 Avec les champs:
 - commune 
@@ -45,7 +51,7 @@ Donner la liste des communes, et la patrimoine moyen des contribuables à l'ISF 
 Donner la liste des communes dont le nombre de redevables est inférieur à 1000 et le patrimoine moyen supérieur à 2500000€?
 
 ## 5
-Même question, mais en classant les villes par patrimoine moyen en ordre décroissant
+Même question, mais pour un patrimoine supérieur à 2000000€ et en classant les villes par patrimoine moyen en ordre décroissant
 
 ## 6
 le mot clé LIMIT ajouté à la fin d'une requête permet de limiter le nombre de résultat. 
@@ -78,21 +84,21 @@ Proposer une requête pour vérifier que les valeurs ont bien été effacées
 Donner l'idh et le nom de commune pour les villes suivantes: Lille, Tourcoing, Roubaix, Croix, La Madeleine
 
 ## 14
-créez une table nommée mon_idh et contenant 2 colonnes, une pour le nom des communes, l'autre pour la valeur de l'idh (nombre à virgule)
+créez une table nommée `mon_idh` et contenant 2 colonnes, une pour le nom des communes, l'autre pour la valeur de l'idh (nombre à virgule)
 
 ## 15
 Insérez dans cette table les valeurs relevées ci-dessus pour les villes de Lille, Tourcoing, Roubaix, Croix, La Madeleine
 
 ## 16
-Donner les villes qui ont un idh supérieur à 0.750
+Reprenez la table donnée `idh_npdc`. Donner les villes qui ont un idh supérieur à 0.750
 
 
 ## 17
-Parmis ces villes, combien sont situées dnas le département du Nord ? Indice: vous pouvez soit considérer le code postal comme un nombre (compris entre 59000 et 59999) ou une chaine de charactère commençant par '59'.
+Parmis ces villes, combien sont situées dans le département du Nord ? Indice: vous pouvez soit considérer le code postal comme un nombre (compris entre 59000 et 59999) ou une chaine de charactère commençant par '59'.
 
 
 ## 18
-Combien dans le département du Pas de Calais 
+Combien dans le département du Pas de Calais ?
 
 
 # Table population
