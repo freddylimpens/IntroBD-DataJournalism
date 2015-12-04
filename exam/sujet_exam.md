@@ -5,7 +5,7 @@ Reprenez l'énoncé de l'examen ([en ODT](https://github.com/freddylimpens/Intro
 
 Chaque question vaut 1 point. Il y a 26 questions, donc ne vous éternisez pas si vous bloquez sur une question.
 
-Durée de l'examen : ** 1 heure **
+Durée de l'examen : **1 heure**
 
 Les tables utilisées dans les énoncées sont toutes disponibles dans la base de donnée fournie. Aidez-vous de cet outils pour vérifier vos requêtes avant de les recopier dans votre fichier de réponse.
 
