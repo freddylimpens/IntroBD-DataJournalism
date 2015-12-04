@@ -90,7 +90,7 @@ créez une table nommée `mon_idh` et contenant 2 colonnes, une pour le nom des 
 Insérez dans cette table les valeurs relevées ci-dessus pour les villes de Lille, Tourcoing, Roubaix, Croix, La Madeleine
 
 ## 16
-Donner les villes qui ont un idh supérieur à 0.750
+Reprenez la table donnée `idh_npdc`. Donner les villes qui ont un idh supérieur à 0.750
 
 
 ## 17
