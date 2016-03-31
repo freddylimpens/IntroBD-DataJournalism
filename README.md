@@ -2,7 +2,7 @@
 
 Cours d'Introduction aux Bases de Données et Data Journalisme, Module Programmation Créative, 
 Université Lille3, Automne 2015 (**lien vers [le wiki](https://github.com/freddylimpens/IntroBD-DataJournalism/wiki)**)
-![]({{site.baseurl}}//chemin_brumeux.JPG)
+![]({{site.baseurl}}/luremC266.jpeg)
 **Les objectifs de ce cours sont les suivants**:  
 * Acquérir des notions solides et des compétences pratiques sur la manipulation de base de données, notamment de bases de données relationnelles.
 * Apprendre à collecter et transformer des données issues des resources de l'OpenData
