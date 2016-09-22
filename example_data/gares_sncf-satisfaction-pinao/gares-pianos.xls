@@ -1,0 +1,572 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Worksheet Name</x:Name>
+    <x:WorksheetOptions>
+     <x:Selected/>
+     <x:FreezePanes/>
+     <x:FrozenNoSplit/>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+<body>
+<table cellpadding="0" border="0" cellspacing="0" cols="4">
+<colgroup width="36">
+<colgroup width="36">
+<colgroup width="72">
+<colgroup width="280">
+<tr>
+<td>Gare</td>
+<td>Lien</td>
+<td>Geometry</td>
+<td>geo_point_2d</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Nice</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frnic/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [7.261777, 43.70488]}</td>
+<td>43.70488, 7.261777</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Marne-la-Vallée - Chessy</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frmlv/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.782184, 48.868256]}</td>
+<td>48.868256, 2.782184</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Ermont - Eaubonne</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.271423, 48.980583]}</td>
+<td>48.980583, 2.271423</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Bibliothèque François Mitterrand</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.376751, 48.829824]}</td>
+<td>48.829824, 2.376751</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Metz-Ville</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frade/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [6.177669, 49.109381]}</td>
+<td>49.109381, 6.177669</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Vichy</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frvhy/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [3.430561423301697, 46.1267607868308]}</td>
+<td>46.1267607868, 3.4305614233</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Bellegarde</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxbf/accueil/</td>
+<td>{"type": "Point", "coordinates": [5.82366, 46.109637]}</td>
+<td>46.109637, 5.82366</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Bourg-en-Bresse</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [5.215034, 46.200121]}</td>
+<td>46.200121, 5.215034</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Chambéry</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [5.919434, 45.571263]}</td>
+<td>45.571263, 5.919434</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Cannes</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frjca/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [7.019593790173531, 43.553941610099294]}</td>
+<td>43.5539416101, 7.01959379017</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Aix-en-Provence TGV</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [5.317179, 43.455102]}</td>
+<td>43.455102, 5.317179</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">La Rochelle-Ville</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frlrh/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-1.14531, 46.152642]}</td>
+<td>46.152642, -1.14531</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Poitiers</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frpis/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [0.332926511764526, 46.582075212132985]}</td>
+<td>46.5820752121, 0.332926511765</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Trouville - Deauville</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frtrd/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [0.084213316440582, 49.36001363159471]}</td>
+<td>49.3600136316, 0.0842133164406</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">TGV Haute-Picardie</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frthp/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.831802, 49.859232]}</td>
+<td>49.859232, 2.831802</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Amiens</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frqam/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.30715, 49.890791]}</td>
+<td>49.890791, 2.30715</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Le Havre</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [0.125653, 49.493045]}</td>
+<td>49.493045, 0.125653</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Arras</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.78122, 50.286957]}</td>
+<td>50.286957, 2.78122</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Aix-en-Provence</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frqxb/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [5.445, 43.523078]}</td>
+<td>43.523078, 5.445</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Dieppe</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frafd/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [1.0811663, 49.9214572]}</td>
+<td>49.9214572, 1.0811663</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Montpellier Saint-Roch</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frmpl/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [3.8806736, 43.6047358]}</td>
+<td>43.6047358, 3.8806736</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Gare d'Austerlitz</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frpaz/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.36671, 48.841472]}</td>
+<td>48.841472, 2.36671</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Gare de Paris Bercy</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frpbe/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.382961, 48.839184]}</td>
+<td>48.839184, 2.382961</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Évry - Courcouronnes</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.428976, 48.625795]}</td>
+<td>48.625795, 2.428976</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Champagne-Ardenne TGV</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/freah/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [3.994572, 49.214748]}</td>
+<td>49.214748, 3.994572</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Reims</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frrhe/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [4.024407863616943, 49.25909475401636]}</td>
+<td>49.259094754, 4.02440786362</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Lyon Saint-Exupéry</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frjdq/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [5.075819, 45.720931]}</td>
+<td>45.720931, 5.075819</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Grenoble</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frgnb/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [5.7145, 45.19147]}</td>
+<td>45.19147, 5.7145</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Bourg Saint Maurice</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frqbm/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [6.771671175956726, 45.61880269021536]}</td>
+<td>45.6188026902, 6.77167117596</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Toulouse</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxyt/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [1.45372, 43.611224]}</td>
+<td>43.611224, 1.45372</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Orléans</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [1.904244, 47.907856]}</td>
+<td>47.907856, 1.904244</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Angers Saint-Laud</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [-0.55882, 47.464305]}</td>
+<td>47.464305, -0.55882</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Rennes</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [-1.67238, 48.103648]}</td>
+<td>48.103648, -1.67238</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Creil</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frcsf/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.46868, 49.263783]}</td>
+<td>49.263783, 2.46868</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Valenciennes</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxvs/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [3.51708, 50.363312]}</td>
+<td>50.363312, 3.51708</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Lille Flandres</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [3.06994, 50.636547]}</td>
+<td>50.636547, 3.06994</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Epernay</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxep/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [3.959887, 49.046243]}</td>
+<td>49.046243, 3.959887</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Bayonne</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxby/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-1.4702368, 43.49683]}</td>
+<td>43.49683, -1.4702368</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Besançon Viotte</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frabg/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [6.02196, 47.246984]}</td>
+<td>47.246984, 6.02196</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Gare du Nord</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frpno/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.35532, 48.880949]}</td>
+<td>48.880949, 2.35532</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Belfort-Montbéliard TGV</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frtja/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [6.897634, 47.58594]}</td>
+<td>47.58594, 6.897634</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Massy TGV</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frdju/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.261439, 48.725618]}</td>
+<td>48.725618, 2.261439</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Nancy</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [6.17459, 48.689874]}</td>
+<td>48.689874, 6.17459</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Strasbourg</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/fraeg/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [7.734138965606689, 48.58507480401891]}</td>
+<td>48.585074804, 7.73413896561</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Dijon Ville</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/fraba/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [5.02613, 47.322913]}</td>
+<td>47.322913, 5.02613</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Lyon Part-Dieu</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frlpd/accueil/</td>
+<td>{"type": "Point", "coordinates": [4.859989, 45.760564]}</td>
+<td>45.760564, 4.859989</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Avignon TGV</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/fravg/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [4.785841, 43.921433]}</td>
+<td>43.921433, 4.785841</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Agen</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/fragf/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [0.621014535427094, 44.208353702073985]}</td>
+<td>44.2083537021, 0.621014535427</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Vendôme-Villiers TGV</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [1.021509, 47.822001]}</td>
+<td>47.822001, 1.021509</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Saint-Brieuc</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frsbk/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-2.765014171600342, 48.50748548737578]}</td>
+<td>48.5074854874, -2.7650141716</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Lens</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxle/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.828099727630615, 50.42681138492582]}</td>
+<td>50.4268113849, 2.82809972763</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Dreux</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxdr/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [1.370657086372375, 48.73134882340544]}</td>
+<td>48.7313488234, 1.37065708637</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Menton</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxmt/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [7.4767649, 43.7743709]}</td>
+<td>43.7743709, 7.4767649</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Marseille-Saint-Charles</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frmsc/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [5.38038, 43.302879]}</td>
+<td>43.302879, 5.38038</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Gare de Lyon</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frply/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.37393, 48.844717]}</td>
+<td>48.844717, 2.37393</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Gare de l'Est</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frpst/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.358283, 48.876141]}</td>
+<td>48.876141, 2.358283</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Chelles - Gournay</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.582221, 48.874201]}</td>
+<td>48.874201, 2.582221</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Troyes</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frqyr/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [4.064919948577881, 48.29631360525215]}</td>
+<td>48.2963136053, 4.06491994858</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Charleville-Mézières</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxcz/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [4.724958, 49.767829]}</td>
+<td>49.767829, 4.724958</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Mulhouse Ville</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/fraek/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [7.3425, 47.742166]}</td>
+<td>47.742166, 7.3425</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Monaco-Monte-Carlo</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxmm/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [7.42153, 43.7409088]}</td>
+<td>43.7409088, 7.42153</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Toulon</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frtln/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [5.929060578346252, 43.128524742825526]}</td>
+<td>43.1285247428, 5.92906057835</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Perpignan</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frpgf/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.87969, 42.696303]}</td>
+<td>42.696303, 2.87969</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Bordeaux Saint-Jean</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frboj/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-0.55625, 44.826055]}</td>
+<td>44.826055, -0.55625</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Brest</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frbes/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-4.48047, 48.387765]}</td>
+<td>48.387765, -4.48047</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Caen</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frcfr/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-0.347641110420227, 49.17636617974508]}</td>
+<td>49.1763661797, -0.34764111042</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Rouen Rive Droite</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frurd/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [1.094145476818085, 49.44894283930446]}</td>
+<td>49.4489428393, 1.09414547682</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Compiègne</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxcp/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.823792, 49.421905]}</td>
+<td>49.421905, 2.823792</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Douai</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [3.089484, 50.372318]}</td>
+<td>50.372318, 3.089484</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Lille-Europe</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frlle/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [3.075855, 50.638811]}</td>
+<td>50.638811, 3.075855</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Biarritz</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frbiq/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-1.5459502, 43.4593596]}</td>
+<td>43.4593596, -1.5459502</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Gare Montparnasse</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frpmo/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.31947, 48.840754]}</td>
+<td>48.840754, 2.31947</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Gare Saint Lazare</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.326387, 48.87611]}</td>
+<td>48.87611, 2.326387</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Besançon Franche-Comté TGV</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frtjb/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [5.952675, 47.307562]}</td>
+<td>47.307562, 5.952675</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Haussmann - Saint-Lazare</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.32904, 48.875188]}</td>
+<td>48.875188, 2.32904</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Magenta</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [2.35826, 48.880099]}</td>
+<td>48.880099, 2.35826</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Lyon-Perrache</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frlpe/accueil/</td>
+<td>{"type": "Point", "coordinates": [4.816301, 45.736643]}</td>
+<td>45.736643, 4.816301</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Valence TGV</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frvla/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [4.978529, 44.992586]}</td>
+<td>44.992586, 4.978529</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Annecy</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frncy/accueil/</td>
+<td>{"type": "Point", "coordinates": [6.121809482574463, 45.9019775562296]}</td>
+<td>45.9019775562, 6.12180948257</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Aix-les-Bains</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frxai/accueil/</td>
+<td>{"type": "Point", "coordinates": [5.909657, 45.688586]}</td>
+<td>45.688586, 5.909657</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Nîmes</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frfni/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [4.366347, 43.832356]}</td>
+<td>43.832356, 4.366347</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Pau</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/fraee/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-0.369643270969391, 43.29182786173455]}</td>
+<td>43.2918278617, -0.369643270969</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Limoges-Bénédictins</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [1.266968, 45.836414]}</td>
+<td>45.836414, 1.266968</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Tours</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [0.69472, 47.388231]}</td>
+<td>47.388231, 0.69472</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Nantes</td>
+<td style="mso-number-format: \@;"></td>
+<td>{"type": "Point", "coordinates": [-1.54212, 47.217585]}</td>
+<td>47.217585, -1.54212</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Vannes</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frvne/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-2.752477526664734, 47.66515252921265]}</td>
+<td>47.6651525292, -2.75247752666</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Lorient</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/frlrt/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [-3.368291, 47.754508]}</td>
+<td>47.754508, -3.368291</td>
+</tr>
+<tr>
+<td style="mso-number-format: \@;" height="25">Dunkerque</td>
+<td style="mso-number-format: \@;">http://www.gares-en-mouvement.com/fr/fradi/votre-gare/</td>
+<td>{"type": "Point", "coordinates": [2.36879289150238, 51.03060940231518]}</td>
+<td>51.0306094023, 2.3687928915</td>
+</tr>
+</table>
+</body>
+</html>

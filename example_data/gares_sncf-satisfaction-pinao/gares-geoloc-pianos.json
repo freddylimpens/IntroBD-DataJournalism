@@ -1,0 +1,1475 @@
+[{
+    "datasetid": "gares-pianos",
+    "recordid": "9a0e9845e305d49bffa946288a9468d6d5d7324c",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.261777, 43.70488]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frnic/votre-gare/",
+        "geo_point_2d": [43.70488, 7.261777],
+        "name": "Nice"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.261777, 43.70488]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "ef9108bb67734205ecd0956fb125b91757a385ad",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.782184, 48.868256]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frmlv/votre-gare/",
+        "geo_point_2d": [48.868256, 2.782184],
+        "name": "Marne-la-Vall\u00e9e - Chessy"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.782184, 48.868256]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "e910a6752628e84ca2d1fe5b544da527734c3ab0",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.271423, 48.980583]
+        },
+        "name": "Ermont - Eaubonne",
+        "geo_point_2d": [48.980583, 2.271423]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.271423, 48.980583]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "af73e84bd033f6fc534e679719e8c1621de8fdd0",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.376751, 48.829824]
+        },
+        "name": "Biblioth\u00e8que Fran\u00e7ois Mitterrand",
+        "geo_point_2d": [48.829824, 2.376751]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.376751, 48.829824]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "fa84f31f152f5b90e15b2d386f0c95280b13121c",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.177669, 49.109381]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frade/votre-gare/",
+        "geo_point_2d": [49.109381, 6.177669],
+        "name": "Metz-Ville"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.177669, 49.109381]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "62b0acd709b8c464a46ccbaf690c500f46c66f07",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.430561423301697, 46.1267607868308]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frvhy/votre-gare/",
+        "geo_point_2d": [46.1267607868308, 3.430561423301697],
+        "name": "Vichy"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.430561423301697, 46.1267607868308]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "ca2ae37b592d43a193a251a104f2946b0399e4d9",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.82366, 46.109637]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxbf/accueil/",
+        "geo_point_2d": [46.109637, 5.82366],
+        "name": "Bellegarde"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.82366, 46.109637]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "9b5fe2604fcb9b672e027372163b74752e98f4a1",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.215034, 46.200121]
+        },
+        "name": "Bourg-en-Bresse",
+        "geo_point_2d": [46.200121, 5.215034]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.215034, 46.200121]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "11b508d48cdcb1ea0331f5592c3fa07069228eb3",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.919434, 45.571263]
+        },
+        "name": "Chamb\u00e9ry",
+        "geo_point_2d": [45.571263, 5.919434]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.919434, 45.571263]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "dcddbe454fe1d3afd0d371e2aba48553db5f9368",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.019593790173531, 43.553941610099294]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frjca/votre-gare/",
+        "geo_point_2d": [43.553941610099294, 7.019593790173531],
+        "name": "Cannes"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.019593790173531, 43.553941610099294]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "940f941e28b667e1d97655d3af718711e404e213",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.317179, 43.455102]
+        },
+        "name": "Aix-en-Provence TGV",
+        "geo_point_2d": [43.455102, 5.317179]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.317179, 43.455102]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "f1d76f034d1a8ad863b2ac4c530ddca9a6261272",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-1.14531, 46.152642]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frlrh/votre-gare/",
+        "geo_point_2d": [46.152642, -1.14531],
+        "name": "La Rochelle-Ville"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.14531, 46.152642]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "59bf42f1ef3dee4b2583e5acb42d5205417d9d57",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0.332926511764526, 46.582075212132985]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frpis/votre-gare/",
+        "geo_point_2d": [46.582075212132985, 0.332926511764526],
+        "name": "Poitiers"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.332926511764526, 46.582075212132985]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "0cac11d44a6bae1fccf1e46aaf03aafa736882a7",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0.084213316440582, 49.36001363159471]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frtrd/votre-gare/",
+        "geo_point_2d": [49.36001363159471, 0.084213316440582],
+        "name": "Trouville - Deauville"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.084213316440582, 49.36001363159471]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "dd6ec4cfe7e41894949edfc5e3554038d32e8b86",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.831802, 49.859232]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frthp/votre-gare/",
+        "geo_point_2d": [49.859232, 2.831802],
+        "name": "TGV Haute-Picardie"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.831802, 49.859232]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "acbbd57c53d1196a015b899a6c1a64b96612e777",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.30715, 49.890791]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frqam/votre-gare/",
+        "geo_point_2d": [49.890791, 2.30715],
+        "name": "Amiens"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.30715, 49.890791]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "48863658cbd6931e269bdc6afb804d177fc1e8e2",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0.125653, 49.493045]
+        },
+        "name": "Le Havre",
+        "geo_point_2d": [49.493045, 0.125653]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.125653, 49.493045]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "d4b00e00514b183a923af6b6f09e62c4bbbda84d",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.78122, 50.286957]
+        },
+        "name": "Arras",
+        "geo_point_2d": [50.286957, 2.78122]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.78122, 50.286957]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "9e91ee22c5862e81765fc553757663d6de60034b",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.445, 43.523078]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frqxb/votre-gare/",
+        "geo_point_2d": [43.523078, 5.445],
+        "name": "Aix-en-Provence"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.445, 43.523078]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "4b7315131cbc553cf9f4bd308874dc2387facce5",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.0811663, 49.9214572]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frafd/votre-gare/",
+        "geo_point_2d": [49.9214572, 1.0811663],
+        "name": "Dieppe"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.0811663, 49.9214572]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "2967a02439226a1f059b1a2abf34eb3c465809fb",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.8806736, 43.6047358]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frmpl/votre-gare/",
+        "geo_point_2d": [43.6047358, 3.8806736],
+        "name": "Montpellier Saint-Roch"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.8806736, 43.6047358]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "9aadb61050faef1b0f094b8276e704db89cc7f06",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.36671, 48.841472]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frpaz/votre-gare/",
+        "geo_point_2d": [48.841472, 2.36671],
+        "name": "Gare d'Austerlitz"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.36671, 48.841472]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "fdb2c0687fb0a05ebcbf75325f69a743d13daa15",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.382961, 48.839184]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frpbe/votre-gare/",
+        "geo_point_2d": [48.839184, 2.382961],
+        "name": "Gare de Paris Bercy"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.382961, 48.839184]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "2e5eb9342210c1fb8a9ff45d6b95d4ada92ef828",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.428976, 48.625795]
+        },
+        "name": "\u00c9vry - Courcouronnes",
+        "geo_point_2d": [48.625795, 2.428976]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.428976, 48.625795]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "b3262969eb45f0866ef8a0f95d008261c62f38ea",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.994572, 49.214748]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/freah/votre-gare/",
+        "geo_point_2d": [49.214748, 3.994572],
+        "name": "Champagne-Ardenne TGV"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.994572, 49.214748]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "1aa600e75fd97d883e56a89276cc8b455f8f2464",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.024407863616943, 49.25909475401636]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frrhe/votre-gare/",
+        "geo_point_2d": [49.25909475401636, 4.024407863616943],
+        "name": "Reims"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.024407863616943, 49.25909475401636]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "5f2a2b595d0ef744309b20d3d6e3492b564db805",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.075819, 45.720931]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frjdq/votre-gare/",
+        "geo_point_2d": [45.720931, 5.075819],
+        "name": "Lyon Saint-Exup\u00e9ry"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.075819, 45.720931]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "9b5e35d5d5428487ed02ba68a138e3ad4d3af62d",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.7145, 45.19147]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frgnb/votre-gare/",
+        "geo_point_2d": [45.19147, 5.7145],
+        "name": "Grenoble"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.7145, 45.19147]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "f980c2773eb9368de09d4c49a8c9c7b3eb3baaae",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.771671175956726, 45.61880269021536]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frqbm/votre-gare/",
+        "geo_point_2d": [45.61880269021536, 6.771671175956726],
+        "name": "Bourg Saint Maurice"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.771671175956726, 45.61880269021536]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "ac61a382a584c452008abaea7eea2aa9cb0c0f6f",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.45372, 43.611224]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxyt/votre-gare/",
+        "geo_point_2d": [43.611224, 1.45372],
+        "name": "Toulouse"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.45372, 43.611224]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "34ea422618cd4318ff9c2e6bf3268eb537637ea9",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.904244, 47.907856]
+        },
+        "name": "Orl\u00e9ans",
+        "geo_point_2d": [47.907856, 1.904244]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.904244, 47.907856]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "1c37c329dcd61dcd4c29e6bf07d4dcb1cbe4a327",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.55882, 47.464305]
+        },
+        "name": "Angers Saint-Laud",
+        "geo_point_2d": [47.464305, -0.55882]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.55882, 47.464305]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "217f85c3324463a0993eadb9ae7107a6d3e0498f",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-1.67238, 48.103648]
+        },
+        "name": "Rennes",
+        "geo_point_2d": [48.103648, -1.67238]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.67238, 48.103648]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "30b673e75d2593d8b1ed2b5e85b8b5f8536084f8",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.46868, 49.263783]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frcsf/votre-gare/",
+        "geo_point_2d": [49.263783, 2.46868],
+        "name": "Creil"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.46868, 49.263783]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "76b39a0500d947c5887ea8466871e8824bfcc5b1",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.51708, 50.363312]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxvs/votre-gare/",
+        "geo_point_2d": [50.363312, 3.51708],
+        "name": "Valenciennes"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.51708, 50.363312]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "631deec69617935436ae72973a13848557909ffe",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.06994, 50.636547]
+        },
+        "name": "Lille Flandres",
+        "geo_point_2d": [50.636547, 3.06994]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.06994, 50.636547]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "1323c273ac834c244b1607b09aeab6910cef3294",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.959887, 49.046243]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxep/votre-gare/",
+        "geo_point_2d": [49.046243, 3.959887],
+        "name": "Epernay"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.959887, 49.046243]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "b51ee9ccdcac8dab27dcb348b272d984297ea406",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-1.4702368, 43.49683]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxby/votre-gare/",
+        "geo_point_2d": [43.49683, -1.4702368],
+        "name": "Bayonne"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.4702368, 43.49683]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "142178de2b3e035e51f6fdc869178df9d4be20a7",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.02196, 47.246984]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frabg/votre-gare/",
+        "geo_point_2d": [47.246984, 6.02196],
+        "name": "Besan\u00e7on Viotte"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.02196, 47.246984]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "0f7bdad2bb48ab5a226432b879aeeaa963241fdc",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.35532, 48.880949]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frpno/votre-gare/",
+        "geo_point_2d": [48.880949, 2.35532],
+        "name": "Gare du Nord"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.35532, 48.880949]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "6f599e7168fd0795ab9969af6a09d7738a26e063",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.897634, 47.58594]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frtja/votre-gare/",
+        "geo_point_2d": [47.58594, 6.897634],
+        "name": "Belfort-Montb\u00e9liard TGV"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.897634, 47.58594]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "fb6b15acf1bf73d385a2e0e450b2fec318541f0e",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.261439, 48.725618]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frdju/votre-gare/",
+        "geo_point_2d": [48.725618, 2.261439],
+        "name": "Massy TGV"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.261439, 48.725618]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "76c8ad9533c098da2d674c5d1c696131f2ee686a",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.17459, 48.689874]
+        },
+        "name": "Nancy",
+        "geo_point_2d": [48.689874, 6.17459]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.17459, 48.689874]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "8d3321d06f164762a0988584243b6720238bfb93",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.734138965606689, 48.58507480401891]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/fraeg/votre-gare/",
+        "geo_point_2d": [48.58507480401891, 7.734138965606689],
+        "name": "Strasbourg"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.734138965606689, 48.58507480401891]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "ad55fcd10f1e5020f2a57fb2bb49f217f720036d",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.02613, 47.322913]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/fraba/votre-gare/",
+        "geo_point_2d": [47.322913, 5.02613],
+        "name": "Dijon Ville"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.02613, 47.322913]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "5f4c3641412cc88b4c33d0e16d62d37a6f446ef2",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.859989, 45.760564]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frlpd/accueil/",
+        "geo_point_2d": [45.760564, 4.859989],
+        "name": "Lyon Part-Dieu"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.859989, 45.760564]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "95b0a69bb7e9ba15614a7a82ca5c2837461c9da9",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.785841, 43.921433]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/fravg/votre-gare/",
+        "geo_point_2d": [43.921433, 4.785841],
+        "name": "Avignon TGV"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.785841, 43.921433]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "96af807572672ea72e66b98f42a8cebc7f295307",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0.621014535427094, 44.208353702073985]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/fragf/votre-gare/",
+        "geo_point_2d": [44.208353702073985, 0.621014535427094],
+        "name": "Agen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.621014535427094, 44.208353702073985]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "87a043e6443b944692a62b0dd2b4c285cd92f699",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.021509, 47.822001]
+        },
+        "name": "Vend\u00f4me-Villiers TGV",
+        "geo_point_2d": [47.822001, 1.021509]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.021509, 47.822001]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "ab7fe2ac6aacfea6027862de30e0a6caf3e9ca48",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-2.765014171600342, 48.50748548737578]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frsbk/votre-gare/",
+        "geo_point_2d": [48.50748548737578, -2.765014171600342],
+        "name": "Saint-Brieuc"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-2.765014171600342, 48.50748548737578]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "61df26ac29e65373dfd89821a0c0c71c4411200a",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.828099727630615, 50.42681138492582]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxle/votre-gare/",
+        "geo_point_2d": [50.42681138492582, 2.828099727630615],
+        "name": "Lens"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.828099727630615, 50.42681138492582]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "4142927873848ba64620a5869a61ac5891920c60",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.370657086372375, 48.73134882340544]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxdr/votre-gare/",
+        "geo_point_2d": [48.73134882340544, 1.370657086372375],
+        "name": "Dreux"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.370657086372375, 48.73134882340544]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "60152a84cd75a0f027f8b311072eca14b411eb00",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.4767649, 43.7743709]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxmt/votre-gare/",
+        "geo_point_2d": [43.7743709, 7.4767649],
+        "name": "Menton"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.4767649, 43.7743709]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "f3ee6c7ec63e77ff2e78b819c47ae381a65073b9",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.38038, 43.302879]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frmsc/votre-gare/",
+        "geo_point_2d": [43.302879, 5.38038],
+        "name": "Marseille-Saint-Charles"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.38038, 43.302879]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "e6dda7fab1ac39f3424baca272071384e64d2906",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.37393, 48.844717]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frply/votre-gare/",
+        "geo_point_2d": [48.844717, 2.37393],
+        "name": "Gare de Lyon"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.37393, 48.844717]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "493d333f4a34af36b5735f92129170b42dc4cea5",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.358283, 48.876141]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frpst/votre-gare/",
+        "geo_point_2d": [48.876141, 2.358283],
+        "name": "Gare de l'Est"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.358283, 48.876141]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "65f9fafe639f918a2e0dd5570fce517c0d6fd04a",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.582221, 48.874201]
+        },
+        "name": "Chelles - Gournay",
+        "geo_point_2d": [48.874201, 2.582221]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.582221, 48.874201]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "ec21a7ee8e0b5942d2f6c75d7553cc69f2aaab54",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.064919948577881, 48.29631360525215]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frqyr/votre-gare/",
+        "geo_point_2d": [48.29631360525215, 4.064919948577881],
+        "name": "Troyes"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.064919948577881, 48.29631360525215]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "00af9fc0ed2913b67f5dcf1aa767b361521ec096",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.724958, 49.767829]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxcz/votre-gare/",
+        "geo_point_2d": [49.767829, 4.724958],
+        "name": "Charleville-M\u00e9zi\u00e8res"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.724958, 49.767829]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "f35e807de4b85af3a931b415ad5482601dbc14fc",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.3425, 47.742166]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/fraek/votre-gare/",
+        "geo_point_2d": [47.742166, 7.3425],
+        "name": "Mulhouse Ville"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.3425, 47.742166]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "527624eb943cb389e1c87bc19c4722809ccad977",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.42153, 43.7409088]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxmm/votre-gare/",
+        "geo_point_2d": [43.7409088, 7.42153],
+        "name": "Monaco-Monte-Carlo"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [7.42153, 43.7409088]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "ee4c615883e6bc46aa0686f63cef7b9dadf775a1",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.929060578346252, 43.128524742825526]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frtln/votre-gare/",
+        "geo_point_2d": [43.128524742825526, 5.929060578346252],
+        "name": "Toulon"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.929060578346252, 43.128524742825526]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "74f461f0a25c0182e18b64c4dcd6aa8826cade0a",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.87969, 42.696303]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frpgf/votre-gare/",
+        "geo_point_2d": [42.696303, 2.87969],
+        "name": "Perpignan"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.87969, 42.696303]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "3e771eb64ba4a24cba396ae3234b584fce356087",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.55625, 44.826055]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frboj/votre-gare/",
+        "geo_point_2d": [44.826055, -0.55625],
+        "name": "Bordeaux Saint-Jean"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.55625, 44.826055]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "6d6d74153a0814c733664495cd5d04f410a6a8cc",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-4.48047, 48.387765]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frbes/votre-gare/",
+        "geo_point_2d": [48.387765, -4.48047],
+        "name": "Brest"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-4.48047, 48.387765]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "b54d42f757df9701ea004e51c64076aa9d8b4aee",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.347641110420227, 49.17636617974508]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frcfr/votre-gare/",
+        "geo_point_2d": [49.17636617974508, -0.347641110420227],
+        "name": "Caen"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.347641110420227, 49.17636617974508]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "6c9cd344f4968e05c88999e44349af317a49613b",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.094145476818085, 49.44894283930446]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frurd/votre-gare/",
+        "geo_point_2d": [49.44894283930446, 1.094145476818085],
+        "name": "Rouen Rive Droite"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.094145476818085, 49.44894283930446]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "2cef5d31161285901076d5129170a9ba48f8b110",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.823792, 49.421905]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxcp/votre-gare/",
+        "geo_point_2d": [49.421905, 2.823792],
+        "name": "Compi\u00e8gne"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.823792, 49.421905]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "5264216520476e8f263bfd352957735a7b76efd6",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.089484, 50.372318]
+        },
+        "name": "Douai",
+        "geo_point_2d": [50.372318, 3.089484]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.089484, 50.372318]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "5ef0e7753340d625bf40dfd5e1c51aa3f0e784b0",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.075855, 50.638811]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frlle/votre-gare/",
+        "geo_point_2d": [50.638811, 3.075855],
+        "name": "Lille-Europe"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [3.075855, 50.638811]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "3b877de417b01eb170279342d756543a51b7448e",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-1.5459502, 43.4593596]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frbiq/votre-gare/",
+        "geo_point_2d": [43.4593596, -1.5459502],
+        "name": "Biarritz"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5459502, 43.4593596]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "009db3ee8d7e026741fcf76f58d916011f3bb191",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.31947, 48.840754]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frpmo/votre-gare/",
+        "geo_point_2d": [48.840754, 2.31947],
+        "name": "Gare Montparnasse"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.31947, 48.840754]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "324bf2e874216490b6bf012380d617dbeb47d94f",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.326387, 48.87611]
+        },
+        "name": "Gare Saint Lazare",
+        "geo_point_2d": [48.87611, 2.326387]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.326387, 48.87611]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "053dc2c99dc3b09ec15b3f3abc54198a346ae4a5",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.952675, 47.307562]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frtjb/votre-gare/",
+        "geo_point_2d": [47.307562, 5.952675],
+        "name": "Besan\u00e7on Franche-Comt\u00e9 TGV"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.952675, 47.307562]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "c0e713c680644f689011d8d0d3243b71c95abfd9",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.32904, 48.875188]
+        },
+        "name": "Haussmann - Saint-Lazare",
+        "geo_point_2d": [48.875188, 2.32904]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.32904, 48.875188]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "a976e61445ecdaaf1762c0628feaf6e4730db6cb",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.35826, 48.880099]
+        },
+        "name": "Magenta",
+        "geo_point_2d": [48.880099, 2.35826]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.35826, 48.880099]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "5b7fe5e5af58ba9de662f30d5d053647439b9763",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.816301, 45.736643]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frlpe/accueil/",
+        "geo_point_2d": [45.736643, 4.816301],
+        "name": "Lyon-Perrache"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.816301, 45.736643]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "6e61447fa1eaa1ab75f7da92fbe98296845df4ad",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.978529, 44.992586]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frvla/votre-gare/",
+        "geo_point_2d": [44.992586, 4.978529],
+        "name": "Valence TGV"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.978529, 44.992586]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "c29cc9383565f65c58f8d41d56f9fb9ed92d0501",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [6.121809482574463, 45.9019775562296]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frncy/accueil/",
+        "geo_point_2d": [45.9019775562296, 6.121809482574463],
+        "name": "Annecy"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [6.121809482574463, 45.9019775562296]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "b5071165d42ce6e0e67077b97fc412819ffadd01",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [5.909657, 45.688586]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frxai/accueil/",
+        "geo_point_2d": [45.688586, 5.909657],
+        "name": "Aix-les-Bains"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [5.909657, 45.688586]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "9bfd843322832c63155772d0e5ad58e7fc2d0a94",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [4.366347, 43.832356]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frfni/votre-gare/",
+        "geo_point_2d": [43.832356, 4.366347],
+        "name": "N\u00eemes"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [4.366347, 43.832356]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "fefa6ae73c99107c4334165365b3ec8a70635720",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-0.369643270969391, 43.29182786173455]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/fraee/votre-gare/",
+        "geo_point_2d": [43.29182786173455, -0.369643270969391],
+        "name": "Pau"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-0.369643270969391, 43.29182786173455]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "c1ecfccfb7f1aecf101276cbdcad3dca9bed1561",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.266968, 45.836414]
+        },
+        "name": "Limoges-B\u00e9n\u00e9dictins",
+        "geo_point_2d": [45.836414, 1.266968]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [1.266968, 45.836414]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "d1e5751ffd0040f319352a7a30edde5e4393f9ba",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [0.69472, 47.388231]
+        },
+        "name": "Tours",
+        "geo_point_2d": [47.388231, 0.69472]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [0.69472, 47.388231]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "113eccd96be13f9fb905c07da31817a83b64cad0",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-1.54212, 47.217585]
+        },
+        "name": "Nantes",
+        "geo_point_2d": [47.217585, -1.54212]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-1.54212, 47.217585]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "8a8ce9d4387cf688b349a6c2dba2183d16fa233b",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-2.752477526664734, 47.66515252921265]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frvne/votre-gare/",
+        "geo_point_2d": [47.66515252921265, -2.752477526664734],
+        "name": "Vannes"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-2.752477526664734, 47.66515252921265]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "2f0b9e7592c8786c762f7986a2056a89254980fd",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-3.368291, 47.754508]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/frlrt/votre-gare/",
+        "geo_point_2d": [47.754508, -3.368291],
+        "name": "Lorient"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-3.368291, 47.754508]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}, {
+    "datasetid": "gares-pianos",
+    "recordid": "884e1382d57bafa1809259a3c5610b60d3413bd1",
+    "fields": {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [2.36879289150238, 51.03060940231518]
+        },
+        "description": "http://www.gares-en-mouvement.com/fr/fradi/votre-gare/",
+        "geo_point_2d": [51.03060940231518, 2.36879289150238],
+        "name": "Dunkerque"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [2.36879289150238, 51.03060940231518]
+    },
+    "record_timestamp": "2014-10-22T12:16:31+02:00"
+}]

@@ -1,0 +1,43 @@
+CREATE TABLE IF NOT EXISTS satisfaction_gares_sncf(
+   Gare                 VARCHAR(30) NOT NULL PRIMARY KEY
+  ,Satisfaction_globale NUMERIC(3,1) NOT NULL
+);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('AEROPORT CDG2 TGV ROISSY',7.4);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('AIX EN PROVENCE TGV',7.5);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('AMIENS',7.3);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('ANGERS ST LAUD',7.6);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('AVIGNON TGV',7.9);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('BORDEAUX ST JEAN',7.8);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('DIJON VILLE',7.8);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('GRENOBLE',7.0);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('LE MANS',7.6);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('LILLE EUROPE',7.7);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('LILLE FLANDRES',7.8);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('LYON PART DIEU',6.9);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('LYON PERRACHE',7.2);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('MARNE+AC0-LA+AC0-VALLEE CHESSY',7.4);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('MARSEILLE ST CHARLES',7.1);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('METZ VILLE',7.3);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('MONTPELLIER SAINT+AC0-ROCH',7.2);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('MULHOUSE',7.3);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('NANCY',7.8);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('NANTES',7.6);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('NICE VILLE',6.1);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('PARIS AUSTERLITZ',7.3);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('PARIS BERCY',7.4);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('PARIS EST',7.5);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('PARIS GARE DE LYON',7.4);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('PARIS MONTPARNASSE',7.4);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('PARIS NORD',6.7);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('PARIS ST LAZARE',7.6);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('RENNES',7.8);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('ROUEN RIVE DROITE',6.6);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('ST PIERRE DES CORPS',6.9);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('STRASBOURG',7.8);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('TOULOUSE+AC0-MATABIAU',7.3);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('TOURS',7.9);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('ST NIVEAU 2',7.6);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('LOURDES',7.3);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('NIMES',7.3);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('REIMS',7.9);
+INSERT INTO satisfaction_gares_sncf(Gare,Satisfaction_globale) VALUES ('TOULON',7.7);
