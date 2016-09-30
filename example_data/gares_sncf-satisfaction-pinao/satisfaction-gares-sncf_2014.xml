@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+    xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+    xmlns:c="urn:schemas-microsoft-com:office:component:spreadsheet"
+    xmlns:html="http://www.w3.org/TR/REC-html40"
+    xmlns:o="urn:schemas-microsoft-com:office:office"
+    xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+    xmlns:x2="http://schemas.microsoft.com/office/excel/2003/xml"
+    xmlns:x="urn:schemas-microsoft-com:office:excel"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+        <Colors>
+            <Color>
+                <Index>3</Index>
+                <RGB>#c0c0c0</RGB>
+            </Color>
+            <Color>
+                <Index>4</Index>
+                <RGB>#ff0000</RGB>
+            </Color>
+        </Colors>
+    </OfficeDocumentSettings>
+    <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+        <WindowHeight>9000</WindowHeight>
+        <WindowWidth>13860</WindowWidth>
+        <WindowTopX>240</WindowTopX>
+        <WindowTopY>75</WindowTopY>
+        <ProtectStructure>False</ProtectStructure>
+        <ProtectWindows>False</ProtectWindows>
+    </ExcelWorkbook>
+    <Styles><Style ss:ID="Default" ss:Name="Default"/>
+        <Style ss:ID="Result" ss:Name="Result"><Font ss:Bold="1" ss:Italic="1" ss:Underline="Single"/></Style>
+        <Style ss:ID="Result2" ss:Name="Result2"><Font ss:Bold="1" ss:Italic="1" ss:Underline="Single"/><NumberFormat ss:Format="Euro Currency"/></Style>
+        <Style ss:ID="Heading" ss:Name="Heading"><Font ss:Bold="1" ss:Italic="1" ss:Size="16"/></Style>
+        <Style ss:ID="Heading1" ss:Name="Heading1"><Font ss:Bold="1" ss:Italic="1" ss:Size="16"/></Style><Style ss:ID="co1"/><Style ss:ID="co2"/><Style ss:ID="co3"/><Style ss:ID="ta1"/></Styles>
+    <ss:Worksheet ss:Name="satisfaction-gares-sncf_2014">
+        <Table ss:StyleID="ta1"><Column ss:Width="220,989"/><Column ss:Width="96,6898"/>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">Gare</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Satisfaction globale</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">AEROPORT Charles De Gaulle 2 TGV ROISSY</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.4</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">AIX EN PROVENCE TGV</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.5</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">AMIENS</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.3</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">ANGERS saint LAUD</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.6</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">AVIGNON TGV</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.9</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">BORDEAUX saint JEAN</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.8</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">DIJON VILLE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.8</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">GRENOBLE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.0</Data>
+                </Cell>
+            </Row>
+            <Row ss:Index="10" ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">LE MANS</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.6</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">LILLE EUROPE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.7</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">LILLE FLANDRES</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.8</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">LYON PART DIEU</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">6.9</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">LYON PERRACHE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.2</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">MARNE LA VALLEE CHESSY</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.4</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">MARSEILLE saint CHARLES</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.1</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">METZ VILLE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.3</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">MONTPELLIER SAINT ROCH</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.2</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">MULHOUSE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.3</Data>
+                </Cell>
+            </Row>
+            <Row ss:Index="20" ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">NANCY</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.8</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">NANTES</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.6</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">NICE VILLE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">6.1</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">PARIS AUSTERLITZ</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.3</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">PARIS BERCY</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.4</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">PARIS EST</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.5</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">PARIS GARE DE LYON</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.4</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">PARIS MONTPARNASSE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.4</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">PARIS NORD</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">6.7</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">PARIS saint LAZARE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.6</Data>
+                </Cell>
+            </Row>
+            <Row ss:Index="30" ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">RENNES</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.8</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">ROUEN RIVE DROITE</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">6.6</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">saint PIERRE DES CORPS</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">6.9</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">STRASBOURG</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.8</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">TOULOUSE MATABIAU</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.3</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">TOURS</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.9</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">LOURDES</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.3</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">NIMES</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.3</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">REIMS</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.9</Data>
+                </Cell>
+            </Row>
+            <Row ss:Height="12,8126">
+                <Cell>
+                    <Data ss:Type="String">TOULON</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">7.7</Data>
+                </Cell>
+            </Row>
+        </Table><x:WorksheetOptions/></ss:Worksheet>
+</Workbook>
