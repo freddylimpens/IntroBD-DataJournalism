@@ -3,6 +3,8 @@
 Cours d'Introduction aux Bases de Données et Data Journalisme, cours commun aux Options transversales Programmation Créative et Métiers du Web proposées aux étudiants de licences à L'Université de Lille Sciences Humaines et Sociales.
 
  [**lien vers le wiki**](https://github.com/freddylimpens/IntroBD-DataJournalism/wiki)
+ 
+ [Lien vers les prise de notes collective](https://annuel.framapad.org/p/IntroBD_DataJournalisme#1)
 
 ## Objectifs du cours
 
