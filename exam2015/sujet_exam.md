@@ -1,7 +1,7 @@
 # Enoncé
 
 Récupérez le fichier [exam_DB.sqlite](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/exam_DB.sqlite?raw=true) et chargez le dans SQLiteMan. Vous verrez les 4 tables utilisées dans cet examen.
-Reprenez l'énoncé de l'examen ([en ODT](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/sujet_exam.odt?raw=true), ou [en texte/MarkDown](https://raw.githubusercontent.com/freddylimpens/IntroBD-DataJournalism/master/exam/sujet_exam.md)) dans un éditeur de texte de votre choix, et recopiez les requêtes SQL permettant de répondre à la question, **sous chacune des questions**. 
+Reprenez l'énoncé de l'examen ([en ODT](https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/sujet_exam.odt?raw=true), ou [en texte/MarkDown](https://raw.githubusercontent.com/freddylimpens/IntroBD-DataJournalism/master/exam/sujet_exam.md)) dans un éditeur de texte de votre choix, et recopiez les requêtes SQL permettant de répondre à la question, **sous chacune des questions**.
 
 Chaque question vaut 1 point. Il y a 26 questions, donc ne vous éternisez pas si vous bloquez sur une question.
 
@@ -16,28 +16,28 @@ Si vous rencontrez des difficultés, envoyez le fichier réponse par email `fred
 # Présentation des tables
 
 ## 1 "isf_france"
-visible à l'adresse https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/isf_france_2009.csv
+visible à l'adresse https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam2015/isf_france_2009.csv
 Base de données ISF (Impôt de Solidarité sur la Fortune)
 - Pour l'ANNEE 2009
 - pour les Villes de plus de 20 000 habitants ayant plus de 50 redevables à l'ISF
 
-## 2 "idh_npdc" 
-visible à l'adresse https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/idh_npdc_2009.csv
+## 2 "idh_npdc"
+visible à l'adresse https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam2015/idh_npdc_2009.csv
 Indice de Développement Humain calculé (année 2009) pour les communes de la région Nord - Pas de Calais
 
 ## 3 "population"
-https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/population_france.csv
+https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/2015population_france.csv
 Population des communes de France de plus de 20 000 habitants (2009)
 
 ## 4 "isf_population" Fusion des tables "population" et "isf_france"
-https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam/isf_population.csv
+https://github.com/freddylimpens/IntroBD-DataJournalism/blob/master/exam2015/isf_population.csv
 Avec les champs:
-- commune 
+- commune
 - nb_redevables
 - population
 
 # 1. Exercices sur la table "isf_france"
- 
+
 ## 1
 Donner le nombre de communes concernées par cette table
 
@@ -54,32 +54,32 @@ Donner la liste des communes dont le nombre de redevables est inférieur à 1000
 Même question, mais pour un patrimoine supérieur à 2000000€ et en classant les villes par patrimoine moyen en ordre décroissant
 
 ## 6
-le mot clé LIMIT ajouté à la fin d'une requête permet de limiter le nombre de résultat. 
-En ajoutant par exemple LIMIT 10 aux requêtes précédentes, vous limiterez le nombre de communes résultantes à 10 
+le mot clé LIMIT ajouté à la fin d'une requête permet de limiter le nombre de résultat.
+En ajoutant par exemple LIMIT 10 aux requêtes précédentes, vous limiterez le nombre de communes résultantes à 10
  Fort de cette nouvelle connaissance, donner la liste des 20 communes les plus "riches", c'est à dire avec les patrimoines moyens les plus élevés.
- 
+
 ## 7
 Même question, mais en excluant la ville de PARIS
 
 ## 8
-Donner le nombre de villes comprenant des redevables à l'ISF dans le département du NORD; 
+Donner le nombre de villes comprenant des redevables à l'ISF dans le département du NORD;
 
 
 ## 9
-Idem, mais dans le département du PAS DE CALAIS; 
+Idem, mais dans le département du PAS DE CALAIS;
 
 ## 10
 Effacer de cette table les valeurs pour la région "Centre"
 
 ## 11
-Proposer une requête pour vérifier que les valeurs ont bien été effacées 
+Proposer une requête pour vérifier que les valeurs ont bien été effacées
 
 
 # Table Indice de développement humain "idh_npdc"
 
 ## 12
  Donner les 30 premières villes classées par idh du plus au moins élevé
- 
+
 ## 13
 Donner l'idh et le nom de commune pour les villes suivantes: Lille, Tourcoing, Roubaix, Croix, La Madeleine
 
@@ -119,7 +119,7 @@ Combien de villes de plus de 100 000 habitants dans la région Nord - PAs de Cal
 Proposez une fusion entre la table Indice de développement humain "idh_npdc" et la table "population"
 
 ## 23
-Sur la base de cette fusion, proposer un classement des villes du Nord Pas de Calais de plus de 30000 habitants, classées apr idh descendant (indice: écrivez les contraintes de filtrage et d'ordre *après* les règles de fusion)
+Sur la base de cette fusion, proposer un classement des villes du Nord Pas de Calais de plus de 30000 habitants, classées par idh descendant (indice: écrivez les contraintes de filtrage et d'ordre *après* les règles de fusion)
 
 ## 24
 Proposer une requête pour faire la fusion entre la table "isf_france" et la table "population". L'objectif de cette fusion est d'obtenir une table comportant les colonnes suivantes:
@@ -128,7 +128,7 @@ Proposer une requête pour faire la fusion entre la table "isf_france" et la tab
 - population de la commune  
 
 ## 25
-Suite à cette requête, vous avez exporté ce nouveau tableau en CSV et l'avez ré-importé en SQL ici même dans la table nommée "isf_population" qui vous est proposée ici.A l'aide de cette nouvelle table,  Proposez maintenant un classement des 20 villes ayant le pourcentage de redevables à l'ISF le plus élevé. 
+Suite à cette requête, vous avez exporté ce nouveau tableau en CSV et l'avez ré-importé en SQL ici même dans la table nommée "isf_population" qui vous est proposée ici.A l'aide de cette nouvelle table,  Proposez maintenant un classement des 20 villes ayant le pourcentage de redevables à l'ISF le plus élevé.
 **Indice 1**: pour calculer le pourcentage faites:
 ```
 (isf_france.nb_redevables*100.0 / population.population)
@@ -137,4 +137,4 @@ Suite à cette requête, vous avez exporté ce nouveau tableau en CSV et l'avez 
 
 ## 26
 **Comparaison des 3 dimensions : Isf, Idh et population**
-A l'aide de cette nouvelle table "isf_population", faites une fusion avec la table "idh_npdc" et ordonnez les villes avec le même calcul (adapté à la requête de fusion) de pourcentage de redevables à l'ISF. 
+A l'aide de cette nouvelle table "isf_population", faites une fusion avec la table "idh_npdc" et ordonnez les villes avec le même calcul (adapté à la requête de fusion) de pourcentage de redevables à l'ISF.
