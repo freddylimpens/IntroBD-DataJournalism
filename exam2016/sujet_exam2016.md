@@ -41,7 +41,7 @@ Y'a t'il des départements dont la surface bio a baissé entre 2001 et 2012 ? Do
 
 
 ## Question 6
-Donnez le nom et le pourcentage de surface bio par rapport à la SAU, pour tous les départements de France en excluant seulement le département des HAUTS-DE-SEINE. Ordonnez par pourcentage décroissant.
+Donnez le nom et le pourcentage de surface bio par rapport à la SAU, pour l'année 2012 et pour tous les départements de France en excluant seulement le département des HAUTS-DE-SEINE. Ordonnez par pourcentage décroissant.
 
 
 # Population des départements français
@@ -111,4 +111,4 @@ A l'aide d'une fusion avec la table `exp_surf_bio_2012`, donnez le nom de dépar
 
 
 ## Question 20
-A l'aide d'une fusion avec la table `population_dpt`, afficher maintenant pour tous les départements leur nom et le nombre de distributeurs pour 100 000 habitants (toujours un produit en croix)
+A l'aide d'une fusion avec la table `population_dpt`, afficher maintenant pour tous les départements leur nom et le nombre de distributeurs pour 100 000 habitants (toujours un produit en croix).
