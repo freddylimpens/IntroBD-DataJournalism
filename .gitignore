@@ -1,2 +1,3 @@
 wikirepo
-*.sqlite
+*.db.sqlite
+exam2016/exam2016.db.sqlite
